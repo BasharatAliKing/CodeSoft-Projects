@@ -1,0 +1,4 @@
+https://bdking-portfolio.netlify.app/
+https://bdking-fypfinal.netlify.app/
+https://bdking-todo.netlify.app/
+https://bdking-calculator.netlify.app/
